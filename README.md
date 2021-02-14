@@ -12,3 +12,7 @@
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I started web developement and it didn't work out for me 😢 . But, SwiftUI is cool and we can help each other if you want my fellow, développeur 
 - ⚡ Fun fact 二 : キャリアのために日本語を学んでいます.
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=solankidivyam&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
