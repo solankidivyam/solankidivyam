@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate on SwiftUI
 - 🤔 I’m looking for help with Backend
 - 💬 Ask me about UI or any tech stuff my fellow développeurs!!
-- 📫 How to reach me: Twitter - @solankidivyam6, Instagram - @divs_designer, LinkedIn - Divyam Solanki
+- 📫 How to reach me: [Twitter - @solankidivyam6](https://twitter.com/DivyamSolanki6), [Instagram - @divs_designer](https://www.instagram.com/divs_designer), 
+[LinkedIn - Divyam Solanki](https://www.linkedin.com/in/divyam-solanki-7a9a12190)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I started web developement and it didn't work out for me 😢 . But, SwiftUI is cool and we can help each other if you want my fellow, développeur 
 - ⚡ Fun fact 二 : キャリアのために日本語を学んでいます.
